@@ -1,0 +1,5 @@
+*.log
+.terraform.lock.hcl
+.terraform/
+logs/
+terraform.tfstate*
